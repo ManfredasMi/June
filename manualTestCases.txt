@@ -1,0 +1,26 @@
+Scenario 1:
+Here I'm writing a test case to test specifically the error message(we can call kill it regression test).
+Not going into the whole functionality/integration testing of each step, field, of negative/positive inputs for example
+and so on.
+
+Title - No possibility of using the same email twice
+Description - open up june.dk in the browser. Could also attach some useful screenshots(e.g. login screen)
+   Steps         Expected Result
+1. Click on to   Login modal pops up with:
+KOM I GANG       - First&Last name field
+                 - Email field
+                 - Checkbox
+
+2. Enter any     Error message comes up
+first and Last   saying: You cannot use 
+names(this       the same email twice, 
+is necessary)    please use another one.
+and Email
+which you used
+previously and
+click on START
+
+## Third challenge / Scenario 2 manual cases:
+
+
+
