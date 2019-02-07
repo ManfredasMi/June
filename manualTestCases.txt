@@ -21,6 +21,15 @@ previously and
 click on START
 
 ## Third challenge / Scenario 2 manual cases:
-
-
+I would use the same approach as per the solution of the 1st challenge.
+Would go with a title, steps and expected result.
+Steps would be the same as per automations 2nd challenge so I won't copy/paste them here.
+The critical part would be checking recomendations on June Moderate Screened page by selecting 
+different answers on some of the critical questions (those would be: invest amount, time horizon, risk attitude,
+monthly income, monthly expense and savings) and comparing a few different flows(one with setting everything low,
+another max) and checking what you get on the June Moderate Screened page.
+And what I would check first, would be if going low/max has any difference on the suggestions/recommendations you get
+at the very end of the flow when you get the recomendation. (There is, I've checked it)
+Of course there are a few paths(few important selections) here you can take as there is a lot to take into the 
+consideration what you get recommended at the very end. (From them you can get different recommendations obviously)
 
